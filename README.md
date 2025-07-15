@@ -1,16 +1,50 @@
-# todo_list
+# Todo List Application
 
-A new Flutter project.
+This is a simple Todo List application built with Flutter. It allows users to add, mark as complete, and delete todo items.
+
+## Features
+
+- **Add Todo Items**: Easily add new tasks to your list using the input field.
+- **Mark as Complete**: Toggle the completion status of a todo item by tapping the checkbox.
+- **Delete Todo Items**: Remove tasks from your list using the delete icon.
+- **No Persistence**: This version of the application does not persist data. All todo items are stored in memory and will be lost when the application is closed.
+
+## How to Use
+
+1.  **Add a Task**: Type your task in the text field at the top and press Enter or tap the '+' icon.
+2.  **Mark as Complete/Incomplete**: Tap the checkbox next to a task to mark it as complete or incomplete.
+3.  **Delete a Task**: Tap the trash can icon next to a task to remove it from the list.
+
+## Screenshots
+
+Here are some screenshots of the application in action:
+
+### Main Screen
+
+![Main Screen](screenshots/main_screen.png)
+*Please replace `screenshots/main_screen.png` with an actual screenshot of the main application screen.*
+
+### Task Marked as Complete
+
+![Task Complete](screenshots/task_complete.png)
+*Please replace `screenshots/task_complete.png` with an actual screenshot showing a task marked as complete.*
+
+### Adding a New Task
+
+![Adding Task](screenshots/adding_task.png)
+*Please replace `screenshots/adding_task.png` with an actual screenshot showing the process of adding a new task.*
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project locally, ensure you have Flutter installed. Then:
 
-A few resources to get you started if this is your first Flutter project:
+1.  Clone this repository:
+    `git clone [repository_url]`
+2.  Navigate to the project directory:
+    `cd todo_list`
+3.  Get Flutter dependencies:
+    `flutter pub get`
+4.  Run the application:
+    `flutter run`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For more information on Flutter development, refer to the official [Flutter documentation](https://docs.flutter.dev/).
