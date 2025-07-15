@@ -22,17 +22,14 @@ Here are some screenshots of the application in action:
 ### Main Screen
 
 ![Main Screen](screenshots/main_screen.png)
-*Please replace `screenshots/main_screen.png` with an actual screenshot of the main application screen.*
 
 ### Task Marked as Complete
 
 ![Task Complete](screenshots/task_complete.png)
-*Please replace `screenshots/task_complete.png` with an actual screenshot showing a task marked as complete.*
 
 ### Adding a New Task
 
 ![Adding Task](screenshots/adding_task.png)
-*Please replace `screenshots/adding_task.png` with an actual screenshot showing the process of adding a new task.*
 
 ## Getting Started
 
