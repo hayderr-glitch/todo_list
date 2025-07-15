@@ -21,15 +21,15 @@ Here are some screenshots of the application in action:
 
 ### Main Screen
 
-<img src="screenshots/main_screen.png" width="400" alt="Main Screen">
+<img src="screenshots/main_screen.png" width="300" alt="Main Screen">
 
 ### Task Marked as Complete
 
-<img src="screenshots/task_complete.png" width="400" alt="Task Complete">
+<img src="screenshots/task_complete.png" width="300" alt="Task Complete">
 
 ### Adding a New Task
 
-<img src="screenshots/adding_task.png" width="400" alt="Adding Task">
+<img src="screenshots/adding_task.png" width="300" alt="Adding Task">
 
 ## Getting Started
 
